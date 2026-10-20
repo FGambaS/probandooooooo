@@ -21,5 +21,5 @@ Planeación, articulación, formación, convocatoria, diagnóstico, implementaci
 ## Gestión y seguimiento
 Las actividades se documentan en Issues y se monitorean en GitHub Projects. Los productos y acuerdos se enlazan desde cada actividad.
  
-## Cuidado de información
+## Protección de datos
 No publicar información personal identificable de participantes. Los resultados de cobertura se presentan en forma agregada.
